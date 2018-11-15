@@ -5,5 +5,5 @@ package com.example.administrator.retrofitdemo;
  */
 
 public class Config {
-    public static String APP_KEY = "4e6aa1a2b76f459898397a84a65d1ce0";
+    public static String APP_KEY = "******************"//修改为聚合数据申请的APP_KEY;
 }
